@@ -3,7 +3,7 @@ title: "GANs by IAN GoodFellow"
 category: Blog
 category_slug: design
 type: content
-image: assets/img/works/work2.JPG
+image: assets/img/works/work2.jpg
 date: 2019-10-25 10:00:00
 ---
 
