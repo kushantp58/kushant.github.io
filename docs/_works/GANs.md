@@ -9,7 +9,7 @@ date: 2019-10-25 10:00:00
 
 # The most interesting idea in Last 10 years of Machine Learning
 
-Most of you might already know the answer to the above question- The GANs. GAN stands for Generative Adversarial Networks. Pitched at a pub one late night in Montreal, who knew Ian Goodfellow [1] will revolutionize the way of using Thor’s hammer. We all have come across some sort of algorithms which classifies images whether animals or humans. These algorithms have always been better at classifying images but what about creating new ones.
+Most of the you might already know the answer to the above question- The GANs. GAN stands for Generative Adversarial Networks. Pitched at a pub one late night in Montreal, who knew Ian Goodfellow [1] will revolutionize the way of using Thor’s hammer. We all have come across some sort of algorithms which classifies images whether animals or humans. These algorithms have always been better at classifying images but what about creating new ones.
 
 ## GANs
 
