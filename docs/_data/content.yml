@@ -121,15 +121,38 @@ clients:
   items:
     - url: "https://www.tibco.com/"
       image: "assets/img/clients/client_1.jpg"
+    
 
     - url: "https://www.tophatrobotics.com/"
       image: "assets/img/clients/client_2.jpg"
+      
 
     - url: "https://www.watonomous.ca/"
       image: "assets/img/clients/client_3.jpg"
 
     - url: "https://uwaterloo.ca/wireless-sensors-and-devices-lab/"
       image: "assets/img/clients/client_4.jpg"
+      
+      
+### Research Papers
+research:
+  title: "Research Papers"
+  items:
+    - url: "https://drive.google.com/file/d/1AUGScdChdhYG5eqqAKQnTM3zc0uQp315/view?usp=sharing"
+      image: "assets/img/clients/paper_1.JPG"
+      name: "Deep Q networks"
+
+    - url: "https://drive.google.com/file/d/1s5QXldmaL1Casp883vdLTmH6NPXYP-lG/view?usp=sharing"
+      image: "assets/img/clients/Paper_2.jpg"
+      name: "Underwater Image Enhancement"
+
+    - url: "https://drive.google.com/file/d/1MEUyPpe99NImIrqmHqZWnQKHQ_3LzTjI/view?usp=sharing"
+      image: "assets/img/clients/Paper_3.JPG"
+      name: "Biomedical devices"
+
+    - url: "https://drive.google.com/file/d/11dYJWzXuocHTEFvhlDVq695DFBYCngNC/view?usp=sharing"
+      image: "assets/img/clients/Paper_4.JPG"
+      name: "Proximal Policy Optimization"
 
 ### Testimonials [ testimonials ]
 testimonials:

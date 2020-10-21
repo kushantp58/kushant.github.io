@@ -17,6 +17,7 @@ main:
         - pricing
         - facts
         - clients
+        - research
         - testimonials
   
   #resume card

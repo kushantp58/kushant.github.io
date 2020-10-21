@@ -1043,6 +1043,20 @@
 	}
 }
 
+/* 4.6 Research */
+.content.research {
+}
+
+.client-items {
+	font-size: 0;
+	text-align: center;
+	.client-item {
+		img {
+			max-width: 100%;
+			opacity: 0.4;
+		}
+	}
+}
 
 /*
 	5. Resume
