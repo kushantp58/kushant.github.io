@@ -14,16 +14,16 @@ about:
         "
   list:
     - label: "Age"
-      value: "24"
+      value: "25"
 
     - label: "Residence"
-      value: "Canada"
+      value: "United States"
 
     - label: "Freelance"
       value: "Available"
 
     - label: "Address"
-      value: "Waterloo,Ontario"
+      value: "Davis, California"
 
 ### Services [ services ]
 services:
@@ -104,16 +104,16 @@ facts:
   title: "Fun Fact"
   items:
     - icon: "disc"
-      name: "165 Albums Listened"
+      name: "234 Albums Listened"
 
     - icon: "trophy"
       name: "25 Awards Won"
 
     - icon: "coffee"
-      name: "1000 Cups of coffee"
+      name: ">2000 Cups of coffee"
 
     - icon: "flag"
-      name: "3 Countries Visited"
+      name: "4 Countries Visited"
 
 ### Clients [ clients ]
 clients:
@@ -357,14 +357,14 @@ contacts_info:
   title: "Get in Touch"
   list:
     - label: "Address"
-      value: "386 Albert Street,Waterloo,Ontario,Canada"
+      value: "Davis,California"
 
     - label: "Email"
       value: "kushantp58@gmail.com/k336pate@uwaterloo.ca"
 
     - label: "Phone"
-      value: "+1595004725"
+      value: "+12797593680"
 
     - label: "New opportunities"
-      value: "Available"
+      value: "Open to new opportunities"
 
