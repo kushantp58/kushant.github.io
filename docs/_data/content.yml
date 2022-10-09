@@ -8,8 +8,10 @@ about:
   title: "About Me"
   text: "
         <p>
-          <strong>Hello! I’m Kushant Patel.</strong><br> Graduate Student at University of Waterloo,Ontario,Canada. I have rich experience in Software Development including computer vision, python development,machine learning,deep 
-                  learning, Data analytics, Hardware Development , Robotics and design of stack for Self Driving Car.
+          <strong>Hello / bonjour / </strong><br> I'm Kushant, recent Alum of University of Waterloo. Funded by Mechatronics Dept. of Waterloo in association with Mitacs.<br>
+          I've spent last 3 years with research in field of machine learning and autonomous vehicles including some review papers in field of computer vision, AV stacks and Reinforcement learning.</br><br>
+          During my stay at Waterloo, I was involved with SAE design team (Watonomous - Runners up in SAE Autonomous challenge). Starting my career in AVs with sensor interfacing division and continuing with
+          motion planning and control stacks, I met greatest minds to share my idea and implement novel algorithm integrations and ending with masters thesis in the field of bluetooth based indoor localization using Auto-ml frameworks</br>
         </p>
         "
   list:
