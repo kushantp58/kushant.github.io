@@ -8,13 +8,13 @@
 ### param "buttons" - Buttons, icon class you can find here https://ionicons.com/v4/
 
 main:
-  bgimage: "assets/img/bg.JPG"
+  bgimage: "assets/img/ucd_npl_team.jpg"
   photo: ""
   name: "Kushant Patel"
   typed:
-    - text: "Research Assistant at Uwaterloo"
-    - text: "Blogger"
-    - text: "AI/ML/Cv Developer"
+    - text: "Senior Scientific Engineer at Berkeley Lab"
+    - text: "UCDNPL/UWaterloo Alumni"
+    - text: "AI/ML/CV Developer"
   social:
     - title: "LinkedIN"
       icon: "fab fa-linkedin"
