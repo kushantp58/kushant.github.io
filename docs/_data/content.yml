@@ -107,23 +107,23 @@ facts:
   title: "Fun Fact"
   items:
     - icon: "disc"
-      name: "234 Albums Listened"
+      name: "567 Albums Listened"
 
     - icon: "trophy"
       name: "25 Awards Won"
 
     - icon: "coffee"
-      name: ">2000 Cups of coffee"
+      name: ">8000 Cups of coffee"
 
     - icon: "flag"
-      name: "4 Countries Visited"
+      name: "5 Countries Visited"
 
 ### Clients [ clients ]
 clients:
   title: "Jobs & Internships"
-  items:
-    - url: "https://www.tibco.com/"
-      image: "assets/img/clients/client_1.jpg"
+  items:   
+    - url: "https://neuroprosthetics.science/"
+      image: "assets/img/clients/client_5.jpeg"
     
 
     - url: "https://www.swaprobotics.com/"
