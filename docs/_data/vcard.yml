@@ -26,9 +26,9 @@ main:
       icon: "fab fa-github"
       url: "https://github.com/kushantp58"
       
-    - title: "facebook"
-      icon: "fab fa-facebook"
-      url: "https://facebook.com/kushant.patel"
+    - title: "Medium"
+      icon: "fab fa-medium"
+      url: "https://medium.com/@kushantp179"
   buttons:
     - title: "Download CV"
       icon: "fas fa-file"
