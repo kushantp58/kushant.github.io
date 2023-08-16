@@ -149,9 +149,9 @@ research:
       image: "assets/img/clients/Paper_2.jpg"
       name: "Underwater Image Enhancement"
 
-    - url: "http://dx.doi.org/10.13140/RG.2.2.20775.27042"
+    - url: "https://www.biorxiv.org/content/10.1101/2023.08.08.552473v1"
       image: "assets/img/clients/Paper_3.JPG"
-      name: "Biomedical devices"
+      name: "BRAND: A platform for closed-loop experiments with deep network models"
 
     - url: "http://dx.doi.org/10.13140/RG.2.2.14064.38406"
       image: "assets/img/clients/Paper_4.JPG"
